@@ -1,0 +1,148 @@
+Icy Tower v1.3.1 - log file
+----------------------------
+Game started with the following commands:
+   C:\games\icytower1.3\icytower13.exe
+Working directory is:
+   C:\games\icytower1.3\
+
+INIT GAME
+Creating hiscore tables
+Initiating controls
+Loading config file
+Setting windowed mode 640x480
+Installing timers
+Installing keyboard
+Installing sound
+Installing joystick/gamepad
+ gamepad has 0 buttons
+ getting values from gamepad.txt
+Reserving memory
+Loading data
+Initiating player
+Creating color maps
+Checking available characters
+ disco_dave: ok
+ harold_the_homeboy: ok
+ template: ok
+ getting palette from <(2) template>
+Loading SFX
+ loading ogg datafile
+ sfx13.dat loaded
+Getting sounds from data file
+Releasing ogg datafile.
+Cleaning up
+Initiating scroller
+Initiating menu controls
+Resetting menu
+
+MAIN MENU LOOP
+ new game selected
+ init new game
+ setting up for replay recording
+ creating map layout
+ loading custom character: template
+  loading from txtfile
+   [jumplo]     loading sound characters/template/jump_lo.wav
+   [jumplo]     could not open characters/template/jump_lo.wav
+   [jumpmed]    loading sound characters/template/jump_mid.wav
+   [jumpmed]    could not open characters/template/jump_mid.wav
+   [jumphi]     loading sound characters/template/jump_hi.wav
+   [jumphi]     could not open characters/template/jump_hi.wav
+   [pause]      loading sound characters/template/pause.wav
+   [pause]      could not open characters/template/pause.wav
+   [death]      loading sound characters/template/falling.wav
+   [death]      could not open characters/template/falling.wav
+   [greeting]   loading sound characters/template/hello.wav
+   [greeting]   could not open characters/template/hello.wav
+   [edge]       loading sound characters/template/edge.wav
+   [edge]       could not open characters/template/edge.wav
+   [bgmusic]    loading sound characters/template/bg_beat.wav
+   [bgmusic]    could not open characters/template/bg_beat.wav
+ cc done
+ setting up play data
+ play started
+  game paused with esc
+  game unpaused
+  game paused with esc
+  game unpaused
+ play ended
+ player qualified for highscore
+  saving config and scores
+ replay_menu launched
+ freeing custom data
+    destroying frames
+ load replay selected
+ init new game
+ preparing to show replay
+ creating map layout
+ loading custom character: template
+  loading from txtfile
+   [jumplo]     loading sound characters/template/jump_lo.wav
+   [jumplo]     could not open characters/template/jump_lo.wav
+   [jumpmed]    loading sound characters/template/jump_mid.wav
+   [jumpmed]    could not open characters/template/jump_mid.wav
+   [jumphi]     loading sound characters/template/jump_hi.wav
+   [jumphi]     could not open characters/template/jump_hi.wav
+   [pause]      loading sound characters/template/pause.wav
+   [pause]      could not open characters/template/pause.wav
+   [death]      loading sound characters/template/falling.wav
+   [death]      could not open characters/template/falling.wav
+   [greeting]   loading sound characters/template/hello.wav
+   [greeting]   could not open characters/template/hello.wav
+   [edge]       loading sound characters/template/edge.wav
+   [edge]       could not open characters/template/edge.wav
+   [bgmusic]    loading sound characters/template/bg_beat.wav
+   [bgmusic]    could not open characters/template/bg_beat.wav
+ cc done
+ setting up play data
+ play started
+  quit from replay after death
+ play ended
+ freeing custom data
+    destroying frames
+ new game selected
+ init new game
+ setting up for replay recording
+ creating map layout
+ loading custom character: template
+  loading from txtfile
+   [jumplo]     loading sound characters/template/jump_lo.wav
+   [jumplo]     could not open characters/template/jump_lo.wav
+   [jumpmed]    loading sound characters/template/jump_mid.wav
+   [jumpmed]    could not open characters/template/jump_mid.wav
+   [jumphi]     loading sound characters/template/jump_hi.wav
+   [jumphi]     could not open characters/template/jump_hi.wav
+   [pause]      loading sound characters/template/pause.wav
+   [pause]      could not open characters/template/pause.wav
+   [death]      loading sound characters/template/falling.wav
+   [death]      could not open characters/template/falling.wav
+   [greeting]   loading sound characters/template/hello.wav
+   [greeting]   could not open characters/template/hello.wav
+   [edge]       loading sound characters/template/edge.wav
+   [edge]       could not open characters/template/edge.wav
+   [bgmusic]    loading sound characters/template/bg_beat.wav
+   [bgmusic]    could not open characters/template/bg_beat.wav
+ cc done
+ setting up play data
+ play started
+ play ended
+ player qualified for highscore
+  saving config and scores
+ replay_menu launched
+ freeing custom data
+    destroying frames
+
+Showing credits
+
+UNINIT
+Saving config
+  saving config and scores
+Freeing sound memory
+Freeing custom character memory
+Unloading datafile
+Free buffer memory
+Free highscore tables
+Free player
+Exiting Allegro
+
+Done...
